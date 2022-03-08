@@ -1,4 +1,4 @@
-LINK GITHUB : https://github.com/ValRiver/webscraping_houseprice.git
+LINK GITHUB : https://github.com/ValRiver/pc3
 
 ESTUDIANTES:
 -RIVERA AQUINO,VALERIA
